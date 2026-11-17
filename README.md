@@ -7,6 +7,10 @@ Free starter files for Claude Code: a `CLAUDE.md` rules file and a handoff templ
 ## Lists
 - [5 free repos every Claude Code user should install](lists/l01-cc-repos.md)
 - [4 free GitHub repos that replace paid AI dev tools](lists/l02-paid-tools.md)
+- [The "deeper, not bigger" prompt by Felix Rieseberg](lists/deeper-prompt.md)
+
+## Skills
+- [`deeper`](skills/deeper/SKILL.md): `/deeper <task>` runs the prompt above. Install: copy `skills/deeper/` to `~/.claude/skills/deeper/`.
 
 Full pack: https://payhip.com/b/r8lqU
 
